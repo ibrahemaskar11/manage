@@ -1,3 +1,5 @@
+# Manage
+Manage is a website built using react and tailwindCSS as a part of the learning journey
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
